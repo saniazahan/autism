@@ -1,7 +1,7 @@
 # Human Gesture and Gait Analysis for Autism Detection
 Imagine transforming the way autism is diagnosed and revolutionizing early intervention strategies instead of waiting up to 2-years just to get the diagnosis. My AI solution analyses gait and gesture patterns, revealing unique autism traits. This innovative approach utilizes skeleton videos for private and non-intrusive autism prediction and severity assessments.
 
-Accepted for publication at [The Fourth Workshop on Face and Gesture Analysis for Health Informatics](FGAHI@CVPR 2023)
+Accepted for publication at [FGAHI@CVPR 2023](https://sites.google.com/view/fgahi2023/home?authuser=0)
 
 
 
