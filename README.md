@@ -3,7 +3,15 @@ Imagine transforming the way autism is diagnosed and revolutionizing early inter
 
 Accepted for publication at [FGAHI@CVPR 2023](https://sites.google.com/view/fgahi2023/home?authuser=0)
 
+## Asymmetric joint angle
+![asd_skel](https://github.com/saniazahan/autism/assets/12523634/2890906b-e81c-4f01-b45a-4ac12d7d690c)
 
+## Illustration of asymmetry in the joints of the left and right sides of the body 
+Left and right side joints are overlapped in TD samples whereas deviated in ASD samples, indicating that ASD children have asymmetric hand and leg positions during walking
+![assymetry](https://github.com/saniazahan/autism/assets/12523634/890cd877-fb78-4f77-b099-03debcfc7c62)
+
+## Gait Architecure 
+![model](https://github.com/saniazahan/autism/assets/12523634/d1cf01fb-729b-4eb7-82d6-ca774ac4f10c)
 
 
 https://github.com/saniazahan/autism/assets/12523634/85c019ac-3759-4627-9df2-fe99d489273d
