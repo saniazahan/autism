@@ -13,6 +13,13 @@ Left and right side joints are overlapped in TD samples whereas deviated in ASD 
 ## Gait Architecure 
 ![model](https://github.com/saniazahan/autism/assets/12523634/d1cf01fb-729b-4eb7-82d6-ca774ac4f10c)
 
+## Link to dataset
+Three Dimensional Dataset Combining Gait and Full Body Movement of Children with Autism Spectrum Disorders Collected by Kinect v2 Camera 
+[Dataset Link](https://datadryad.org/stash/dataset/doi%253A10.5061%252Fdryad.s7h44j150)
+
+The DREAM Dataset: Behavioural data from robot enhanced therapies for children with autism spectrum disorder
+[Dataset link](https://snd.gu.se/sv/catalogue/study/snd1156/1/1#dataset)[Github](https://github.com/dream2020/data)
+
 
 https://github.com/saniazahan/autism/assets/12523634/85c019ac-3759-4627-9df2-fe99d489273d
 
